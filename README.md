@@ -6,7 +6,7 @@
 ## Problem Statement
 
 AtliQ Hardware's Sales Director faces challenges in tracking and analyzing sales performance across dynamically growing markets in India. Regional managers provide verbal and Excel-based reports, often lacking accuracy and clarity. The abundance of Excel files complicates data interpretation, hindering his 
-ability to make informed decisions. To address this, a centralized dashboard is needed to provide real-time, actionable insights into sales trends and performance. The goal is to replace cumbersome manual reporting with a data-driven solution that offers clear visualizations, enabling Bhavan to quickly identify areas for improvement and make strategic decisions to boost sales.
+ability to make informed decisions. To address this, a centralized dashboard is needed to provide real-time, actionable insights into sales trends and performance. The goal is to replace cumbersome manual reporting with a data-driven solution that offers clear visualizations, enabling him to quickly identify areas for improvement and make strategic decisions to boost sales.
 
 
 
