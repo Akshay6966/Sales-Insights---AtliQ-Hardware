@@ -16,7 +16,7 @@ ability to make informed decisions. To address this, a centralized dashboard is 
 
   Source File: Obtained the SQL file containing the sales data required for analysis.
 
-- Step 2 :Database Connectivity:
+- Step 2 : Database Connectivity:
 
   Power BI Connection: Connected Power BI to the  SQL database using the appropriate database connectivity settings.
   
