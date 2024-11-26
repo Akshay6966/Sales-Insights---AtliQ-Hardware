@@ -61,7 +61,7 @@ Following inferences can be drawn from the dashboard;
  
  ### Revenue Trend
  
- 1.1) The revenue trend starts strong in early 2018, peaking around mid-2018 at over 40M. 
+ 1.1) The revenue trend starts strong in early 2018, peaking at the start of 2018 at over 40M. 
  
  1.2) There is a noticeable decline afterward, with fluctuations but a general downward trend, especially steeply falling towards early 2020.
  
